@@ -1,4 +1,4 @@
-Hi 👋 My name is ANANDU VIJAYAN VM
+Hi 👋 I'm ANANDU VIJAYAN VM
 ==================================
 
 REACT.JS|JAVA SCRIPIT|FRONT-END DEVELOPER
