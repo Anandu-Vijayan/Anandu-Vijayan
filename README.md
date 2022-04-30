@@ -1,7 +1,7 @@
 Hi 👋 I'm ANANDU VIJAYAN VM
 ==================================
 
-REACT.JS|JAVA SCRIPIT|FRONT-END DEVELOPER
+MERN||FULL STACK DEVELOPER
 -----------------------------------------
 
 I've been learning to code for 2 years, after switching careers. I started with HTML, but have really found a passion for front-End development...
