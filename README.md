@@ -2,7 +2,7 @@
 <h3 align="center">SELF TAUGHT MERN||FULL STACK DEVELOPER</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on magicalspirits<br><br>🌱 I’m currently learning SQL & REACT<br><br>👨‍💻 All of my projects are available at https://anandu-vijayan.github.io/Portfolio/<br><br>💬 Ask me about REACT,MONGODB,NODEJS,EXPRESS,SQL,FIGMA,NGINX<br><br>📫 How to reach me ananduvijayan8@gmail.com<br><br>⚡ Fun fact I think I always No error coder
+🔭 I’m currently working on SOCIALIN<br><br>🌱 I’m currently learning SQL & REACT<br><br>👨‍💻 All of my projects are available at https://anandu-vijayan.github.io/Portfolio/<br><br>💬 Ask me about REACT,MONGODB,NODEJS,EXPRESS,SQL,FIGMA,NGINX<br><br>📫 How to reach me ananduvijayan8@gmail.com<br><br>⚡ Fun fact I think I always No error coder
 
 
 ## 🌐 Socials:
